@@ -10,3 +10,7 @@ p {
 body {
     background-color: blanchedalmond;
 }
+
+head{
+    text-shadow: 2px 2px 5px greenyellow;
+}
