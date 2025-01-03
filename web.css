@@ -1,8 +1,8 @@
 @import url('https://fonts.googleapis.com/css?family=Caprasimo');
 
 h1{
-    text-align: center;
-    color: #63a97b;
+    text-align:start;
+    color:greenyellow;
 }
 
 p {
@@ -10,7 +10,7 @@ p {
 }
 
 body {
-    background-color: blanchedalmond;
+    background-color:rgb(216, 216, 244);
 }
 
 head {
