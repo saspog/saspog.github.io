@@ -1,7 +1,6 @@
 @import url('https://fonts.googleapis.com/css?family=Caprasimo');
 
 h1{
-    font-family: 'Caprasimo';
     text-align: center;
     color: #63a97b;
 }
@@ -17,3 +16,10 @@ body {
 head {
     text-shadow: 2px 2px 5px greenyellow;
 }
+
+h1.caprasimo-regular {
+    font-family: "Caprasimo", serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
