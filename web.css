@@ -1,4 +1,7 @@
+@import url('https://fonts.googleapis.com/css?family=Caprasimo');
+
 h1{
+    font-family: 'Caprasimo';
     text-align: center;
     color: #63a97b;
 }
@@ -11,6 +14,6 @@ body {
     background-color: blanchedalmond;
 }
 
-head{
+head {
     text-shadow: 2px 2px 5px greenyellow;
 }
