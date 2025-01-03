@@ -3,6 +3,12 @@
 h1{
     text-align:start;
     color:greenyellow;
+    text-shadow: 2px 2px 5px rgb(152, 221, 49);
+}
+
+h2 {
+    text-align: center;
+    color: #000;
 }
 
 p {
@@ -14,7 +20,7 @@ body {
 }
 
 head {
-    text-shadow: 2px 2px 5px greenyellow;
+
 }
 
 h1.caprasimo-regular {
