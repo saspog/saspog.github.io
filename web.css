@@ -1,5 +1,3 @@
-@import url('https://fonts.googleapis.com/css?family=Caprasimo');
-
 h1{
     text-align:start;
     color:greenyellow;
@@ -16,11 +14,7 @@ p {
 }
 
 body {
-    background-color:rgb(216, 216, 244);
-}
-
-head {
-
+    background-color:rgb(210, 210, 243);
 }
 
 h1.caprasimo-regular {
