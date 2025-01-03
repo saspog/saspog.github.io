@@ -3,7 +3,6 @@
 h1{
     text-align:start;
     color:greenyellow;
-    text-shadow: 2px 2px 5px rgb(152, 221, 49);
 }
 
 h2 {
@@ -23,5 +22,5 @@ h1.caprasimo-regular {
     font-family: "Caprasimo", serif;
     font-weight: 400;
     font-style: normal;
-  }
+}
   
