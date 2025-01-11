@@ -5,9 +5,15 @@ h1{
     color:rgb(191, 246, 109);
 }
 
+.caprasimo-regular {
+    font-family: "Caprasimo", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
 h2 {
-    text-align: center;
-    color: #000;
+    text-align:left;
+    color: rgb(191, 246, 109);
 }
 
 p {
@@ -68,11 +74,5 @@ div.content {
       text-align: center;
       float: none;
     }
-}
-
-h1.caprasimo-regular {
-    font-family: "Caprasimo", serif;
-    font-weight: 400;
-    font-style: normal;
 }
   
