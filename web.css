@@ -2,7 +2,7 @@
 
 h1{
     text-align:start;
-    color:rgb(243, 245, 240);
+    color:rgb(8, 4, 39);
 }
 
 .caprasimo-regular {
@@ -13,7 +13,7 @@ h1{
 
 h2 {
     text-align:left;
-    color: rgb(243, 245, 240);
+    color: rgb(8, 4, 39);
 }
 
 p {
@@ -21,20 +21,7 @@ p {
 }
 
 body {
-    background-color:rgb(1, 1, 28);
-}
-
-.sidebar {
-    height: 100%;
-    width: 0;
-    position: fixed;
-    z-index: 1;
-    top: 0;
-    left: 0;
-    background-color: rgb(52, 52, 54);
-    overflow: hidden;
-    padding-top: 45px;
-    transition: 0.5s;
+    background-color:rgb(225, 231, 223);
 }
 
 /* sidebar links */
