@@ -14,4 +14,7 @@ If you are developing a production application, we recommend using TypeScript wi
 Developing a personal website/portfolio which is garden based
 
 Resources: 
-Background: https://unsplash.com/photos/green-grass-field-during-daytime-C2PCa6DhlYE?utm_content=creditShareLink&utm_medium=referral&utm_source=unsplash 
+Grass Background: https://unsplash.com/photos/green-grass-field-during-daytime-C2PCa6DhlYE?utm_content=creditShareLink&utm_medium=referral&utm_source=unsplash 
+
+Mothwork Font: license: Freeware, Non-Commercial
+link: https://www.fontspace.com/mothwork-font-f80822
