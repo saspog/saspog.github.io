@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
@@ -11,7 +10,8 @@ Currently, two official plugins are available:
 ## Expanding the ESLint configuration
 
 If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-=======
-# saspog.github.io
-website
->>>>>>> f01d60c75c485132d3250f09004dcc2d90504b00
+==============================================================================
+Developing a personal website/portfolio which is garden based
+
+Resources: 
+Background: https://unsplash.com/photos/green-grass-field-during-daytime-C2PCa6DhlYE?utm_content=creditShareLink&utm_medium=referral&utm_source=unsplash 
