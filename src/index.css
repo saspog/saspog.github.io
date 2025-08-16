@@ -2,10 +2,3 @@
   font-family: 'Mothwork';
   src: local('Mothwork'), url(./fonts/Mothwork.otf) format('truetype');
 }
-
-h1 {
-  font-family: 'Mothwork';
-  color: rgb(218, 228, 244);
-  font-size: 3.5rem;
-  text-align: center;
-}
