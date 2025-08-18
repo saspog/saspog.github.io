@@ -1,10 +1,15 @@
+/*
+* App.css: Contains css for app
+*/
 body{
   margin: 0;
   padding: 0;
   background-image: url('/grass-background.jpg');
   background-size: cover;
+  aspect-ratio: 16/9;
   background-position: center;
   background-repeat: no-repeat;
+  /* Use aspect-ratio to prevent image shifting */
 }
 
     html {
@@ -59,3 +64,35 @@ h1 {
   font-size: 3.75rem;
   text-align: center;
 }
+
+.about {
+  margin: 0;
+  padding: 0;
+  background-image: url('/dist/dirt-background.jpg');
+  background-size: cover;
+  aspect-ratio: 16/9;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.contact {
+  margin: 0;
+  padding: 0;
+  background-image: url('/dist/dirt-background.jpg');
+  background-size: cover;
+  aspect-ratio: 16/9;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+/* Testing if I want same css in home as other pages
+.home {
+  margin: 0;
+  padding: 0;
+  background-image: url('/dist/dirt-background.jpg');
+  background-size: cover;
+  aspect-ratio: 16/9;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+  */

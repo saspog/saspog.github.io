@@ -11,10 +11,12 @@ Currently, two official plugins are available:
 
 If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
 ==============================================================================
-Developing a personal website/portfolio which is garden based
+Developing a personal website/portfolio which is garden based.
 
 Resources: 
 Grass Background: https://unsplash.com/photos/green-grass-field-during-daytime-C2PCa6DhlYE?utm_content=creditShareLink&utm_medium=referral&utm_source=unsplash 
 
 Mothwork Font: license: Freeware, Non-Commercial
 link: https://www.fontspace.com/mothwork-font-f80822
+
+Navigation Bar: https://pusher.com/blog/getting-started-with-react-router-v4/#highlight-the-current-view
