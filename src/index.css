@@ -2,3 +2,13 @@
   font-family: 'Mothwork';
   src: local('Mothwork'), url(./fonts/Mothwork.otf) format('truetype');
 }
+
+@font-face {
+  font-family: "Macando";
+  src: local('Macondo'), url(./fonts/Macondo/Macondo-Regular.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: "PlayfairDisplay";
+  src: local('PlayfairDisplay'), url(./fonts/PlayfairDisplay-VariableFont_wght.ttf) format('truetype');
+}
